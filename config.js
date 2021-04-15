@@ -1,8 +1,8 @@
 const config = {};
 
-config.host = process.env.HOST || "https://cosmosdbappjs.documents.azure.com:443/";
+config.host = process.env.HOST || "add db endpoint here";
 config.authKey =
-  process.env.AUTH_KEY || "iDupP3yQKMJ56iO2SEM2VJqg3DgYWT3jFxIfLFaAQgIAHCkLfEmmaLOAqWLuXz5XiEMSbzClfEbmv3tWABxoSA==";
+  process.env.AUTH_KEY || "add key here";
 config.databaseId = "ToDoList";
 config.containerId = "Items";
 
