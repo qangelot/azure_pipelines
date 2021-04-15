@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b7ad16b7-e9a8-4348-a652-c5fe462b2307/resourceGroups/brief-cosmosDB/providers/Microsoft.Web/sites/TODOOO",
+    "appService.deploySubpath": "."
+}
