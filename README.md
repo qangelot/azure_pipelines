@@ -1,3 +1,3 @@
 # azure_pipelines
-azure pipelines test with basic node.js app 
+azure pipelines test with node app 
 https://dev.azure.com/
